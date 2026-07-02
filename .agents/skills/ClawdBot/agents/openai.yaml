@@ -1,0 +1,6 @@
+interface:
+  display_name: "ClawdBot"
+  short_description: "Repo-specific patterns and workflows for ClawdBot"
+  default_prompt: "Use the ClawdBot repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
